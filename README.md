@@ -1,5 +1,4 @@
-# DANIELLE-AUSTRIA
-<!DOCTYPE html>
+
 <!-- saved from url=(0053)file:///C:/Users/Admin/Documents/Austria/danyela.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
